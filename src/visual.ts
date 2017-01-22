@@ -121,7 +121,7 @@ module powerbi.extensibility.visual {
         private static LabelDisplayUnitsDefault: number = 0;
         private static AxisFontSize: number = 11;
         private static CrosshairTextMargin: number = 5;
-        private static BubbleRadius = 3 * 2;
+        private static BubbleRadius = 3 * 1;
 
         private static MinSizeRange = 200;
         private static MaxSizeRange = 3000;
